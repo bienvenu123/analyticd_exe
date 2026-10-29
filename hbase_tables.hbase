@@ -1,0 +1,3 @@
+create 'user_events', {NAME => 's', VERSIONS => 1}, {NAME => 'e', VERSIONS => 1} unless exists 'user_events'
+create 'product_daily', {NAME => 'm', VERSIONS => 1} unless exists 'product_daily'
+exit

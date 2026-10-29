@@ -1,0 +1,23 @@
+# Local credentials and workstation configuration
+.docker_config/
+.hbase_setup/
+/AUCA Final Project Oct 2026.pdf
+
+# Python cache and locally staged dependencies
+__pycache__/
+*.py[cod]
+.tmp_faker/
+.tmp_pdfdeps/
+.pydeps/
+
+# Generated full-scale data (recreate with run_assignment_generator.py)
+data_full/
+
+# Local database, Spark, and temporary outputs
+hbase_runtime/
+output/
+output_full/
+output_full_scale_summary/
+spark-warehouse/
+tmp/
+*.log

@@ -1,0 +1,18 @@
+{
+  "host": "localhost",
+  "port": 9090,
+  "sessions_processed": 10000,
+  "distinct_users": 1000,
+  "page_view_rows_loaded": 99873,
+  "user_events_rows_after_load": 99873,
+  "product_daily_rows_loaded": 24881,
+  "product_daily_rows_after_load": 24881,
+  "product_page_views": 34365,
+  "cart_add_units": 21081,
+  "purchased_units": 9384,
+  "item_revenue_cents": 238855430,
+  "row_keys": {
+    "user_events": "user_id|reverse_epoch_ms|session_id|event_index",
+    "product_daily": "product_id|yyyyMMdd"
+  }
+}

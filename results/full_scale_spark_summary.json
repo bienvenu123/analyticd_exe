@@ -1,0 +1,25 @@
+{
+  "source": "full-scale generated JSON chunks",
+  "input_manifest": {
+    "users": 10000,
+    "products": 5000,
+    "categories": 25,
+    "sessions": 2000000,
+    "transactions": 500000,
+    "session_chunk_size": 25000,
+    "transaction_chunk_size": 10000
+  },
+  "spark_users": 10000,
+  "session_metrics": {
+    "sessions": 2000000,
+    "converted_sessions": 405887,
+    "users_with_sessions": 10000,
+    "mean_user_session_seconds": 1813.6951382948548
+  },
+  "purchase_metrics": {
+    "fulfilled_transactions": 439067,
+    "fulfilled_revenue": 399384245.22000146,
+    "purchasing_users": 10000
+  },
+  "category_rows": 25
+}

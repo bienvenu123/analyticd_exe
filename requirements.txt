@@ -1,0 +1,8 @@
+pyspark>=3.5
+pymongo>=4.6
+happybase>=1.2
+faker>=20
+numpy>=1.26
+pandas>=2.1
+matplotlib>=3.8
+reportlab>=4.0

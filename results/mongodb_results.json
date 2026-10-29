@@ -1,0 +1,263 @@
+{
+  "top_products": [
+    {
+      "units": 40,
+      "item_revenue": 12685.2,
+      "product_id": "prod_00292",
+      "name": "Synergistic Attitude-Oriented Flexibility",
+      "category_id": "cat_011",
+      "order_count": 19
+    },
+    {
+      "units": 38,
+      "item_revenue": 9298.220000000001,
+      "product_id": "prod_00465",
+      "name": "Innovative Methodical Adapter",
+      "category_id": "cat_004",
+      "order_count": 18
+    },
+    {
+      "units": 37,
+      "item_revenue": 12229.24,
+      "product_id": "prod_00076",
+      "name": "Persevering Client-Driven Website",
+      "category_id": "cat_002",
+      "order_count": 17
+    },
+    {
+      "units": 37,
+      "item_revenue": 1531.06,
+      "product_id": "prod_00210",
+      "name": "Open-Source Non-Volatile Software",
+      "category_id": "cat_007",
+      "order_count": 16
+    },
+    {
+      "units": 36,
+      "item_revenue": 12284.64,
+      "product_id": "prod_00313",
+      "name": "Monitored Upward-Trending Project",
+      "category_id": "cat_005",
+      "order_count": 16
+    },
+    {
+      "units": 35,
+      "item_revenue": 8094.45,
+      "product_id": "prod_00283",
+      "name": "Optimized Next Generation Throughput",
+      "category_id": "cat_009",
+      "order_count": 16
+    },
+    {
+      "units": 35,
+      "item_revenue": 11397.75,
+      "product_id": "prod_00004",
+      "name": "Fully-Configurable Asynchronous Intranet",
+      "category_id": "cat_012",
+      "order_count": 16
+    },
+    {
+      "units": 35,
+      "item_revenue": 360.15,
+      "product_id": "prod_00437",
+      "name": "Polarized Maximized Database",
+      "category_id": "cat_007",
+      "order_count": 15
+    },
+    {
+      "units": 35,
+      "item_revenue": 10119.55,
+      "product_id": "prod_00342",
+      "name": "Multi-Lateral Fault-Tolerant Contingency",
+      "category_id": "cat_009",
+      "order_count": 14
+    },
+    {
+      "units": 35,
+      "item_revenue": 18068.4,
+      "product_id": "prod_00078",
+      "name": "Seamless Uniform Middleware",
+      "category_id": "cat_012",
+      "order_count": 15
+    },
+    {
+      "units": 34,
+      "item_revenue": 2665.2599999999998,
+      "product_id": "prod_00204",
+      "name": "Self-Enabling Systemic Forecast",
+      "category_id": "cat_000",
+      "order_count": 17
+    },
+    {
+      "units": 34,
+      "item_revenue": 6307.34,
+      "product_id": "prod_00000",
+      "name": "Synergistic Solution-Oriented Project",
+      "category_id": "cat_011",
+      "order_count": 18
+    },
+    {
+      "units": 34,
+      "item_revenue": 7209.36,
+      "product_id": "prod_00155",
+      "name": "Triple-Buffered Executive Standardization",
+      "category_id": "cat_002",
+      "order_count": 14
+    },
+    {
+      "units": 33,
+      "item_revenue": 10207.89,
+      "product_id": "prod_00285",
+      "name": "Assimilated Contextually-Based Flexibility",
+      "category_id": "cat_000",
+      "order_count": 16
+    },
+    {
+      "units": 33,
+      "item_revenue": 14728.89,
+      "product_id": "prod_00166",
+      "name": "Ameliorated Well-Modulated Service-Desk",
+      "category_id": "cat_003",
+      "order_count": 15
+    },
+    {
+      "units": 33,
+      "item_revenue": 10275.869999999999,
+      "product_id": "prod_00146",
+      "name": "Innovative Attitude-Oriented Encryption",
+      "category_id": "cat_009",
+      "order_count": 16
+    },
+    {
+      "units": 33,
+      "item_revenue": 15335.099999999999,
+      "product_id": "prod_00399",
+      "name": "Robust Systematic Toolset",
+      "category_id": "cat_010",
+      "order_count": 14
+    },
+    {
+      "units": 33,
+      "item_revenue": 13520.76,
+      "product_id": "prod_00081",
+      "name": "Sharable Even-Keeled Throughput",
+      "category_id": "cat_012",
+      "order_count": 14
+    },
+    {
+      "units": 32,
+      "item_revenue": 482.88,
+      "product_id": "prod_00096",
+      "name": "Switchable 4Thgeneration Artificial Intelligence",
+      "category_id": "cat_013",
+      "order_count": 16
+    },
+    {
+      "units": 32,
+      "item_revenue": 4540.4800000000005,
+      "product_id": "prod_00068",
+      "name": "Synergistic Fault-Tolerant Definition",
+      "category_id": "cat_009",
+      "order_count": 12
+    }
+  ],
+  "category_revenue": [
+    {
+      "revenue": 274758.91,
+      "units": 1000,
+      "category_id": "cat_009",
+      "orders": 442
+    },
+    {
+      "revenue": 191715.93,
+      "units": 605,
+      "category_id": "cat_012",
+      "orders": 281
+    },
+    {
+      "revenue": 179566.55,
+      "units": 688,
+      "category_id": "cat_003",
+      "orders": 331
+    },
+    {
+      "revenue": 170494.7,
+      "units": 628,
+      "category_id": "cat_002",
+      "orders": 291
+    },
+    {
+      "revenue": 164818.53,
+      "units": 667,
+      "category_id": "cat_007",
+      "orders": 310
+    },
+    {
+      "revenue": 162549.55,
+      "units": 710,
+      "category_id": "cat_006",
+      "orders": 335
+    },
+    {
+      "revenue": 154506.85,
+      "units": 598,
+      "category_id": "cat_005",
+      "orders": 285
+    },
+    {
+      "revenue": 151902.73,
+      "units": 536,
+      "category_id": "cat_010",
+      "orders": 249
+    },
+    {
+      "revenue": 150466.18,
+      "units": 540,
+      "category_id": "cat_014",
+      "orders": 264
+    },
+    {
+      "revenue": 150438.89,
+      "units": 638,
+      "category_id": "cat_004",
+      "orders": 301
+    },
+    {
+      "revenue": 135745.29,
+      "units": 673,
+      "category_id": "cat_013",
+      "orders": 320
+    },
+    {
+      "revenue": 132257.22,
+      "units": 534,
+      "category_id": "cat_001",
+      "orders": 262
+    },
+    {
+      "revenue": 130078.39,
+      "units": 594,
+      "category_id": "cat_008",
+      "orders": 291
+    },
+    {
+      "revenue": 121351.28,
+      "units": 488,
+      "category_id": "cat_011",
+      "orders": 243
+    },
+    {
+      "revenue": 117903.3,
+      "units": 485,
+      "category_id": "cat_000",
+      "orders": 239
+    }
+  ],
+  "collection_counts": {
+    "users": 1000,
+    "products": 500,
+    "categories": 15,
+    "sessions": 10000,
+    "transactions": 2500
+  }
+}

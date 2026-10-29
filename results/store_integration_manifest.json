@@ -1,0 +1,7 @@
+{
+  "source": "MongoDB + HBase via native clients",
+  "mongo_profiles": 1000,
+  "mongo_purchasing_users": 885,
+  "hbase_user_sessions": 10000,
+  "integrated_users": 1000
+}

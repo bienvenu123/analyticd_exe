@@ -1,0 +1,11 @@
+# User activity: reverse epoch makes newest events sort first within each user.
+create 'user_events', {NAME => 's', VERSIONS => 1}, {NAME => 'e', VERSIONS => 1}
+# Row key: user_id|reverse_epoch_ms|session_id|event_index
+# s: session metadata (start_time, device, referrer, geo, conversion); e: page type/product/category/duration/time.
+# Product daily aggregates: event loader stores views, cart additions, purchased units, and revenue in cents.
+create 'product_daily', {NAME => 'm', VERSIONS => 1}
+# Row key: product_id|yyyyMMdd; m:views, cart_adds, purchases, revenue_cents.
+scan 'user_events', {LIMIT => 5}
+# Example user scan. For a bounded user's events use start/stop row with encoded keys:
+scan 'user_events', {STARTROW => 'user_000042|', STOPROW => 'user_000043|'}
+get 'user_events', 'user_000042|<reverse_epoch_ms>|<session_id>|0000'

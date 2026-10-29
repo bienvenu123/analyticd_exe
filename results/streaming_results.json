@@ -1,0 +1,3516 @@
+{
+  "source": "Spark rate stream (synthetic)",
+  "duration_seconds": 40,
+  "rows_per_second": 10,
+  "microbatches": [
+    {
+      "batch_id": 0,
+      "groups": []
+    },
+    {
+      "batch_id": 1,
+      "groups": [
+        {
+          "window": {
+            "start": "2026-10-29T12:33:50",
+            "end": "2026-10-29T12:33:55"
+          },
+          "page_type": "cart",
+          "category_id": "category_017",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:33:50",
+            "end": "2026-10-29T12:33:55"
+          },
+          "page_type": "cart",
+          "category_id": "category_006",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:33:50",
+            "end": "2026-10-29T12:33:55"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_023",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:33:50",
+            "end": "2026-10-29T12:33:55"
+          },
+          "page_type": "cart",
+          "category_id": "category_001",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:33:55",
+            "end": "2026-10-29T12:34:00"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_004",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:33:55",
+            "end": "2026-10-29T12:34:00"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_018",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:33:55",
+            "end": "2026-10-29T12:34:00"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_013",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:33:55",
+            "end": "2026-10-29T12:34:00"
+          },
+          "page_type": "cart",
+          "category_id": "category_002",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:33:55",
+            "end": "2026-10-29T12:34:00"
+          },
+          "page_type": "cart",
+          "category_id": "category_016",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:33:55",
+            "end": "2026-10-29T12:34:00"
+          },
+          "page_type": "cart",
+          "category_id": "category_022",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:33:55",
+            "end": "2026-10-29T12:34:00"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_003",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:33:55",
+            "end": "2026-10-29T12:34:00"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_020",
+          "event_count": 2,
+          "approx_unique_users": 2
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:33:55",
+            "end": "2026-10-29T12:34:00"
+          },
+          "page_type": "cart",
+          "category_id": "category_012",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:33:55",
+            "end": "2026-10-29T12:34:00"
+          },
+          "page_type": "cart",
+          "category_id": "category_001",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:00",
+            "end": "2026-10-29T12:34:05"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_004",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:00",
+            "end": "2026-10-29T12:34:05"
+          },
+          "page_type": "cart",
+          "category_id": "category_021",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:00",
+            "end": "2026-10-29T12:34:05"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_024",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:00",
+            "end": "2026-10-29T12:34:05"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_013",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:00",
+            "end": "2026-10-29T12:34:05"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_019",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:00",
+            "end": "2026-10-29T12:34:05"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_008",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:00",
+            "end": "2026-10-29T12:34:05"
+          },
+          "page_type": "cart",
+          "category_id": "category_011",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:00",
+            "end": "2026-10-29T12:34:05"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_000",
+          "event_count": 2,
+          "approx_unique_users": 2
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:00",
+            "end": "2026-10-29T12:34:05"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_003",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:00",
+            "end": "2026-10-29T12:34:05"
+          },
+          "page_type": "cart",
+          "category_id": "category_017",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:00",
+            "end": "2026-10-29T12:34:05"
+          },
+          "page_type": "cart",
+          "category_id": "category_006",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:00",
+            "end": "2026-10-29T12:34:05"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_023",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:00",
+            "end": "2026-10-29T12:34:05"
+          },
+          "page_type": "cart",
+          "category_id": "category_012",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:00",
+            "end": "2026-10-29T12:34:05"
+          },
+          "page_type": "cart",
+          "category_id": "category_001",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:33:50",
+            "end": "2026-10-29T12:33:55"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_010",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:33:50",
+            "end": "2026-10-29T12:33:55"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_002",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:33:50",
+            "end": "2026-10-29T12:33:55"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_016",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:33:50",
+            "end": "2026-10-29T12:33:55"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_005",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:33:50",
+            "end": "2026-10-29T12:33:55"
+          },
+          "page_type": "checkout",
+          "category_id": "category_008",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:33:55",
+            "end": "2026-10-29T12:34:00"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_006",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:33:55",
+            "end": "2026-10-29T12:34:00"
+          },
+          "page_type": "cart",
+          "category_id": "category_009",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:33:55",
+            "end": "2026-10-29T12:34:00"
+          },
+          "page_type": "checkout",
+          "category_id": "category_023",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:33:55",
+            "end": "2026-10-29T12:34:00"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_012",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:33:55",
+            "end": "2026-10-29T12:34:00"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_001",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:33:55",
+            "end": "2026-10-29T12:34:00"
+          },
+          "page_type": "checkout",
+          "category_id": "category_018",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:33:55",
+            "end": "2026-10-29T12:34:00"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_007",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:33:55",
+            "end": "2026-10-29T12:34:00"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_021",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:33:55",
+            "end": "2026-10-29T12:34:00"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_002",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:33:55",
+            "end": "2026-10-29T12:34:00"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_016",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:33:55",
+            "end": "2026-10-29T12:34:00"
+          },
+          "page_type": "checkout",
+          "category_id": "category_008",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:00",
+            "end": "2026-10-29T12:34:05"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_017",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:00",
+            "end": "2026-10-29T12:34:05"
+          },
+          "page_type": "cart",
+          "category_id": "category_009",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:00",
+            "end": "2026-10-29T12:34:05"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_001",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:00",
+            "end": "2026-10-29T12:34:05"
+          },
+          "page_type": "checkout",
+          "category_id": "category_018",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:00",
+            "end": "2026-10-29T12:34:05"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_021",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:00",
+            "end": "2026-10-29T12:34:05"
+          },
+          "page_type": "cart",
+          "category_id": "category_024",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:00",
+            "end": "2026-10-29T12:34:05"
+          },
+          "page_type": "checkout",
+          "category_id": "category_013",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:00",
+            "end": "2026-10-29T12:34:05"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_002",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:00",
+            "end": "2026-10-29T12:34:05"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_016",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:00",
+            "end": "2026-10-29T12:34:05"
+          },
+          "page_type": "cart",
+          "category_id": "category_019",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:00",
+            "end": "2026-10-29T12:34:05"
+          },
+          "page_type": "checkout",
+          "category_id": "category_008",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:33:50",
+            "end": "2026-10-29T12:33:55"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_000",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:33:50",
+            "end": "2026-10-29T12:33:55"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_014",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:33:50",
+            "end": "2026-10-29T12:33:55"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_003",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:33:50",
+            "end": "2026-10-29T12:33:55"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_020",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:33:50",
+            "end": "2026-10-29T12:33:55"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_009",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:33:50",
+            "end": "2026-10-29T12:33:55"
+          },
+          "page_type": "cart",
+          "category_id": "category_012",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:33:50",
+            "end": "2026-10-29T12:33:55"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_015",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:33:55",
+            "end": "2026-10-29T12:34:00"
+          },
+          "page_type": "cart",
+          "category_id": "category_007",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:33:55",
+            "end": "2026-10-29T12:34:00"
+          },
+          "page_type": "cart",
+          "category_id": "category_021",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:33:55",
+            "end": "2026-10-29T12:34:00"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_010",
+          "event_count": 2,
+          "approx_unique_users": 2
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:33:55",
+            "end": "2026-10-29T12:34:00"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_024",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:33:55",
+            "end": "2026-10-29T12:34:00"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_005",
+          "event_count": 2,
+          "approx_unique_users": 2
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:33:55",
+            "end": "2026-10-29T12:34:00"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_019",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:33:55",
+            "end": "2026-10-29T12:34:00"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_008",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:33:55",
+            "end": "2026-10-29T12:34:00"
+          },
+          "page_type": "cart",
+          "category_id": "category_011",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:33:55",
+            "end": "2026-10-29T12:34:00"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_000",
+          "event_count": 2,
+          "approx_unique_users": 2
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:33:55",
+            "end": "2026-10-29T12:34:00"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_014",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:33:55",
+            "end": "2026-10-29T12:34:00"
+          },
+          "page_type": "cart",
+          "category_id": "category_017",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:33:55",
+            "end": "2026-10-29T12:34:00"
+          },
+          "page_type": "cart",
+          "category_id": "category_006",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:33:55",
+            "end": "2026-10-29T12:34:00"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_009",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:33:55",
+            "end": "2026-10-29T12:34:00"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_023",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:33:55",
+            "end": "2026-10-29T12:34:00"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_015",
+          "event_count": 2,
+          "approx_unique_users": 2
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:00",
+            "end": "2026-10-29T12:34:05"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_018",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:00",
+            "end": "2026-10-29T12:34:05"
+          },
+          "page_type": "cart",
+          "category_id": "category_007",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:00",
+            "end": "2026-10-29T12:34:05"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_010",
+          "event_count": 2,
+          "approx_unique_users": 2
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:00",
+            "end": "2026-10-29T12:34:05"
+          },
+          "page_type": "cart",
+          "category_id": "category_002",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:00",
+            "end": "2026-10-29T12:34:05"
+          },
+          "page_type": "cart",
+          "category_id": "category_016",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:00",
+            "end": "2026-10-29T12:34:05"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_005",
+          "event_count": 2,
+          "approx_unique_users": 2
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:00",
+            "end": "2026-10-29T12:34:05"
+          },
+          "page_type": "cart",
+          "category_id": "category_022",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:00",
+            "end": "2026-10-29T12:34:05"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_014",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:00",
+            "end": "2026-10-29T12:34:05"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_020",
+          "event_count": 2,
+          "approx_unique_users": 2
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:00",
+            "end": "2026-10-29T12:34:05"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_009",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:33:50",
+            "end": "2026-10-29T12:33:55"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_007",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:33:50",
+            "end": "2026-10-29T12:33:55"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_021",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:33:50",
+            "end": "2026-10-29T12:33:55"
+          },
+          "page_type": "cart",
+          "category_id": "category_024",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:33:50",
+            "end": "2026-10-29T12:33:55"
+          },
+          "page_type": "checkout",
+          "category_id": "category_013",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:33:50",
+            "end": "2026-10-29T12:33:55"
+          },
+          "page_type": "cart",
+          "category_id": "category_019",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:33:55",
+            "end": "2026-10-29T12:34:00"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_022",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:33:55",
+            "end": "2026-10-29T12:34:00"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_011",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:33:55",
+            "end": "2026-10-29T12:34:00"
+          },
+          "page_type": "cart",
+          "category_id": "category_014",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:33:55",
+            "end": "2026-10-29T12:34:00"
+          },
+          "page_type": "checkout",
+          "category_id": "category_003",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:33:55",
+            "end": "2026-10-29T12:34:00"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_017",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:33:55",
+            "end": "2026-10-29T12:34:00"
+          },
+          "page_type": "cart",
+          "category_id": "category_004",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:33:55",
+            "end": "2026-10-29T12:34:00"
+          },
+          "page_type": "cart",
+          "category_id": "category_024",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:33:55",
+            "end": "2026-10-29T12:34:00"
+          },
+          "page_type": "checkout",
+          "category_id": "category_013",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:33:55",
+            "end": "2026-10-29T12:34:00"
+          },
+          "page_type": "cart",
+          "category_id": "category_019",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:00",
+            "end": "2026-10-29T12:34:05"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_022",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:00",
+            "end": "2026-10-29T12:34:05"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_011",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:00",
+            "end": "2026-10-29T12:34:05"
+          },
+          "page_type": "cart",
+          "category_id": "category_014",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:00",
+            "end": "2026-10-29T12:34:05"
+          },
+          "page_type": "checkout",
+          "category_id": "category_003",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:00",
+            "end": "2026-10-29T12:34:05"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_006",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:00",
+            "end": "2026-10-29T12:34:05"
+          },
+          "page_type": "checkout",
+          "category_id": "category_023",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:00",
+            "end": "2026-10-29T12:34:05"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_012",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:00",
+            "end": "2026-10-29T12:34:05"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_015",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:00",
+            "end": "2026-10-29T12:34:05"
+          },
+          "page_type": "cart",
+          "category_id": "category_004",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:00",
+            "end": "2026-10-29T12:34:05"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_007",
+          "event_count": 1,
+          "approx_unique_users": 1
+        }
+      ]
+    },
+    {
+      "batch_id": 2,
+      "groups": [
+        {
+          "window": {
+            "start": "2026-10-29T12:34:05",
+            "end": "2026-10-29T12:34:10"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_004",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:05",
+            "end": "2026-10-29T12:34:10"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_018",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:05",
+            "end": "2026-10-29T12:34:10"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_010",
+          "event_count": 2,
+          "approx_unique_users": 2
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:05",
+            "end": "2026-10-29T12:34:10"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_024",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:05",
+            "end": "2026-10-29T12:34:10"
+          },
+          "page_type": "cart",
+          "category_id": "category_016",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:05",
+            "end": "2026-10-29T12:34:10"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_005",
+          "event_count": 2,
+          "approx_unique_users": 2
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:05",
+            "end": "2026-10-29T12:34:10"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_019",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:05",
+            "end": "2026-10-29T12:34:10"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_008",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:05",
+            "end": "2026-10-29T12:34:10"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_000",
+          "event_count": 2,
+          "approx_unique_users": 2
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:05",
+            "end": "2026-10-29T12:34:10"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_014",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:05",
+            "end": "2026-10-29T12:34:10"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_009",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:05",
+            "end": "2026-10-29T12:34:10"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_022",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:05",
+            "end": "2026-10-29T12:34:10"
+          },
+          "page_type": "checkout",
+          "category_id": "category_003",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:05",
+            "end": "2026-10-29T12:34:10"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_006",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:05",
+            "end": "2026-10-29T12:34:10"
+          },
+          "page_type": "cart",
+          "category_id": "category_009",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:05",
+            "end": "2026-10-29T12:34:10"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_015",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:05",
+            "end": "2026-10-29T12:34:10"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_021",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:05",
+            "end": "2026-10-29T12:34:10"
+          },
+          "page_type": "cart",
+          "category_id": "category_024",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:05",
+            "end": "2026-10-29T12:34:10"
+          },
+          "page_type": "checkout",
+          "category_id": "category_013",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:05",
+            "end": "2026-10-29T12:34:10"
+          },
+          "page_type": "cart",
+          "category_id": "category_019",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:05",
+            "end": "2026-10-29T12:34:10"
+          },
+          "page_type": "checkout",
+          "category_id": "category_008",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:00",
+            "end": "2026-10-29T12:34:05"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_015",
+          "event_count": 2,
+          "approx_unique_users": 2
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:05",
+            "end": "2026-10-29T12:34:10"
+          },
+          "page_type": "cart",
+          "category_id": "category_007",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:05",
+            "end": "2026-10-29T12:34:10"
+          },
+          "page_type": "cart",
+          "category_id": "category_021",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:05",
+            "end": "2026-10-29T12:34:10"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_013",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:05",
+            "end": "2026-10-29T12:34:10"
+          },
+          "page_type": "cart",
+          "category_id": "category_002",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:05",
+            "end": "2026-10-29T12:34:10"
+          },
+          "page_type": "cart",
+          "category_id": "category_022",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:05",
+            "end": "2026-10-29T12:34:10"
+          },
+          "page_type": "cart",
+          "category_id": "category_011",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:05",
+            "end": "2026-10-29T12:34:10"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_003",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:05",
+            "end": "2026-10-29T12:34:10"
+          },
+          "page_type": "cart",
+          "category_id": "category_017",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:05",
+            "end": "2026-10-29T12:34:10"
+          },
+          "page_type": "cart",
+          "category_id": "category_006",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:05",
+            "end": "2026-10-29T12:34:10"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_020",
+          "event_count": 2,
+          "approx_unique_users": 2
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:05",
+            "end": "2026-10-29T12:34:10"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_023",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:05",
+            "end": "2026-10-29T12:34:10"
+          },
+          "page_type": "cart",
+          "category_id": "category_012",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:05",
+            "end": "2026-10-29T12:34:10"
+          },
+          "page_type": "cart",
+          "category_id": "category_001",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:05",
+            "end": "2026-10-29T12:34:10"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_011",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:05",
+            "end": "2026-10-29T12:34:10"
+          },
+          "page_type": "cart",
+          "category_id": "category_014",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:05",
+            "end": "2026-10-29T12:34:10"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_017",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:05",
+            "end": "2026-10-29T12:34:10"
+          },
+          "page_type": "checkout",
+          "category_id": "category_023",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:05",
+            "end": "2026-10-29T12:34:10"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_012",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:05",
+            "end": "2026-10-29T12:34:10"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_001",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:05",
+            "end": "2026-10-29T12:34:10"
+          },
+          "page_type": "cart",
+          "category_id": "category_004",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:05",
+            "end": "2026-10-29T12:34:10"
+          },
+          "page_type": "checkout",
+          "category_id": "category_018",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:05",
+            "end": "2026-10-29T12:34:10"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_007",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:05",
+            "end": "2026-10-29T12:34:10"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_002",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:05",
+            "end": "2026-10-29T12:34:10"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_016",
+          "event_count": 1,
+          "approx_unique_users": 1
+        }
+      ]
+    },
+    {
+      "batch_id": 3,
+      "groups": [
+        {
+          "window": {
+            "start": "2026-10-29T12:34:05",
+            "end": "2026-10-29T12:34:10"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_015",
+          "event_count": 2,
+          "approx_unique_users": 2
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:10",
+            "end": "2026-10-29T12:34:15"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_018",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:10",
+            "end": "2026-10-29T12:34:15"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_024",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:10",
+            "end": "2026-10-29T12:34:15"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_013",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:10",
+            "end": "2026-10-29T12:34:15"
+          },
+          "page_type": "cart",
+          "category_id": "category_002",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:10",
+            "end": "2026-10-29T12:34:15"
+          },
+          "page_type": "cart",
+          "category_id": "category_016",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:10",
+            "end": "2026-10-29T12:34:15"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_011",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:10",
+            "end": "2026-10-29T12:34:15"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_000",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:10",
+            "end": "2026-10-29T12:34:15"
+          },
+          "page_type": "cart",
+          "category_id": "category_014",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:10",
+            "end": "2026-10-29T12:34:15"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_006",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:10",
+            "end": "2026-10-29T12:34:15"
+          },
+          "page_type": "cart",
+          "category_id": "category_009",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:10",
+            "end": "2026-10-29T12:34:15"
+          },
+          "page_type": "checkout",
+          "category_id": "category_023",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:10",
+            "end": "2026-10-29T12:34:15"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_012",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:10",
+            "end": "2026-10-29T12:34:15"
+          },
+          "page_type": "cart",
+          "category_id": "category_004",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:10",
+            "end": "2026-10-29T12:34:15"
+          },
+          "page_type": "checkout",
+          "category_id": "category_018",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:10",
+            "end": "2026-10-29T12:34:15"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_004",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:10",
+            "end": "2026-10-29T12:34:15"
+          },
+          "page_type": "cart",
+          "category_id": "category_007",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:10",
+            "end": "2026-10-29T12:34:15"
+          },
+          "page_type": "cart",
+          "category_id": "category_021",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:10",
+            "end": "2026-10-29T12:34:15"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_010",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:10",
+            "end": "2026-10-29T12:34:15"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_005",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:10",
+            "end": "2026-10-29T12:34:15"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_019",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:10",
+            "end": "2026-10-29T12:34:15"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_008",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:10",
+            "end": "2026-10-29T12:34:15"
+          },
+          "page_type": "cart",
+          "category_id": "category_022",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:10",
+            "end": "2026-10-29T12:34:15"
+          },
+          "page_type": "cart",
+          "category_id": "category_011",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:10",
+            "end": "2026-10-29T12:34:15"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_022",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:10",
+            "end": "2026-10-29T12:34:15"
+          },
+          "page_type": "checkout",
+          "category_id": "category_003",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:10",
+            "end": "2026-10-29T12:34:15"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_017",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:10",
+            "end": "2026-10-29T12:34:15"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_020",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:10",
+            "end": "2026-10-29T12:34:15"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_001",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:10",
+            "end": "2026-10-29T12:34:15"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_015",
+          "event_count": 1,
+          "approx_unique_users": 1
+        }
+      ]
+    },
+    {
+      "batch_id": 4,
+      "groups": [
+        {
+          "window": {
+            "start": "2026-10-29T12:34:10",
+            "end": "2026-10-29T12:34:15"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_000",
+          "event_count": 2,
+          "approx_unique_users": 2
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:10",
+            "end": "2026-10-29T12:34:15"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_014",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:10",
+            "end": "2026-10-29T12:34:15"
+          },
+          "page_type": "cart",
+          "category_id": "category_001",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:15",
+            "end": "2026-10-29T12:34:20"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_004",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:15",
+            "end": "2026-10-29T12:34:20"
+          },
+          "page_type": "cart",
+          "category_id": "category_007",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:15",
+            "end": "2026-10-29T12:34:20"
+          },
+          "page_type": "cart",
+          "category_id": "category_021",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:10",
+            "end": "2026-10-29T12:34:15"
+          },
+          "page_type": "cart",
+          "category_id": "category_024",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:10",
+            "end": "2026-10-29T12:34:15"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_016",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:10",
+            "end": "2026-10-29T12:34:15"
+          },
+          "page_type": "cart",
+          "category_id": "category_019",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:15",
+            "end": "2026-10-29T12:34:20"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_022",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:15",
+            "end": "2026-10-29T12:34:20"
+          },
+          "page_type": "cart",
+          "category_id": "category_014",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:15",
+            "end": "2026-10-29T12:34:20"
+          },
+          "page_type": "checkout",
+          "category_id": "category_003",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:10",
+            "end": "2026-10-29T12:34:15"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_003",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:10",
+            "end": "2026-10-29T12:34:15"
+          },
+          "page_type": "cart",
+          "category_id": "category_017",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:10",
+            "end": "2026-10-29T12:34:15"
+          },
+          "page_type": "cart",
+          "category_id": "category_006",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:10",
+            "end": "2026-10-29T12:34:15"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_020",
+          "event_count": 2,
+          "approx_unique_users": 2
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:10",
+            "end": "2026-10-29T12:34:15"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_009",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:10",
+            "end": "2026-10-29T12:34:15"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_023",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:10",
+            "end": "2026-10-29T12:34:15"
+          },
+          "page_type": "cart",
+          "category_id": "category_012",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:10",
+            "end": "2026-10-29T12:34:15"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_015",
+          "event_count": 2,
+          "approx_unique_users": 2
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:15",
+            "end": "2026-10-29T12:34:20"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_018",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:10",
+            "end": "2026-10-29T12:34:15"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_007",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:10",
+            "end": "2026-10-29T12:34:15"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_021",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:10",
+            "end": "2026-10-29T12:34:15"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_010",
+          "event_count": 2,
+          "approx_unique_users": 2
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:10",
+            "end": "2026-10-29T12:34:15"
+          },
+          "page_type": "checkout",
+          "category_id": "category_013",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:10",
+            "end": "2026-10-29T12:34:15"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_002",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:10",
+            "end": "2026-10-29T12:34:15"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_005",
+          "event_count": 2,
+          "approx_unique_users": 2
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:10",
+            "end": "2026-10-29T12:34:15"
+          },
+          "page_type": "checkout",
+          "category_id": "category_008",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:15",
+            "end": "2026-10-29T12:34:20"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_011",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:15",
+            "end": "2026-10-29T12:34:20"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_000",
+          "event_count": 1,
+          "approx_unique_users": 1
+        }
+      ]
+    },
+    {
+      "batch_id": 5,
+      "groups": [
+        {
+          "window": {
+            "start": "2026-10-29T12:34:15",
+            "end": "2026-10-29T12:34:20"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_010",
+          "event_count": 2,
+          "approx_unique_users": 2
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:15",
+            "end": "2026-10-29T12:34:20"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_024",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:15",
+            "end": "2026-10-29T12:34:20"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_013",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:15",
+            "end": "2026-10-29T12:34:20"
+          },
+          "page_type": "cart",
+          "category_id": "category_002",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:15",
+            "end": "2026-10-29T12:34:20"
+          },
+          "page_type": "cart",
+          "category_id": "category_016",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:15",
+            "end": "2026-10-29T12:34:20"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_008",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:15",
+            "end": "2026-10-29T12:34:20"
+          },
+          "page_type": "cart",
+          "category_id": "category_022",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:15",
+            "end": "2026-10-29T12:34:20"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_014",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:15",
+            "end": "2026-10-29T12:34:20"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_017",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:15",
+            "end": "2026-10-29T12:34:20"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_020",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:15",
+            "end": "2026-10-29T12:34:20"
+          },
+          "page_type": "cart",
+          "category_id": "category_009",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:15",
+            "end": "2026-10-29T12:34:20"
+          },
+          "page_type": "checkout",
+          "category_id": "category_023",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:15",
+            "end": "2026-10-29T12:34:20"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_001",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:15",
+            "end": "2026-10-29T12:34:20"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_015",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:15",
+            "end": "2026-10-29T12:34:20"
+          },
+          "page_type": "checkout",
+          "category_id": "category_018",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:15",
+            "end": "2026-10-29T12:34:20"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_007",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:15",
+            "end": "2026-10-29T12:34:20"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_021",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:15",
+            "end": "2026-10-29T12:34:20"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_005",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:15",
+            "end": "2026-10-29T12:34:20"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_019",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:15",
+            "end": "2026-10-29T12:34:20"
+          },
+          "page_type": "cart",
+          "category_id": "category_011",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:15",
+            "end": "2026-10-29T12:34:20"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_000",
+          "event_count": 2,
+          "approx_unique_users": 2
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:15",
+            "end": "2026-10-29T12:34:20"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_003",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:15",
+            "end": "2026-10-29T12:34:20"
+          },
+          "page_type": "cart",
+          "category_id": "category_017",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:15",
+            "end": "2026-10-29T12:34:20"
+          },
+          "page_type": "cart",
+          "category_id": "category_006",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:15",
+            "end": "2026-10-29T12:34:20"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_006",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:15",
+            "end": "2026-10-29T12:34:20"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_012",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:15",
+            "end": "2026-10-29T12:34:20"
+          },
+          "page_type": "cart",
+          "category_id": "category_004",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:15",
+            "end": "2026-10-29T12:34:20"
+          },
+          "page_type": "cart",
+          "category_id": "category_024",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:15",
+            "end": "2026-10-29T12:34:20"
+          },
+          "page_type": "checkout",
+          "category_id": "category_013",
+          "event_count": 1,
+          "approx_unique_users": 1
+        }
+      ]
+    },
+    {
+      "batch_id": 6,
+      "groups": [
+        {
+          "window": {
+            "start": "2026-10-29T12:34:15",
+            "end": "2026-10-29T12:34:20"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_020",
+          "event_count": 2,
+          "approx_unique_users": 2
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:15",
+            "end": "2026-10-29T12:34:20"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_023",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:15",
+            "end": "2026-10-29T12:34:20"
+          },
+          "page_type": "cart",
+          "category_id": "category_012",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:15",
+            "end": "2026-10-29T12:34:20"
+          },
+          "page_type": "cart",
+          "category_id": "category_001",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:15",
+            "end": "2026-10-29T12:34:20"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_015",
+          "event_count": 2,
+          "approx_unique_users": 2
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:20",
+            "end": "2026-10-29T12:34:25"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_004",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:20",
+            "end": "2026-10-29T12:34:25"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_018",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:20",
+            "end": "2026-10-29T12:34:25"
+          },
+          "page_type": "cart",
+          "category_id": "category_007",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:20",
+            "end": "2026-10-29T12:34:25"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_010",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:20",
+            "end": "2026-10-29T12:34:25"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_013",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:20",
+            "end": "2026-10-29T12:34:25"
+          },
+          "page_type": "cart",
+          "category_id": "category_016",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:15",
+            "end": "2026-10-29T12:34:20"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_016",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:15",
+            "end": "2026-10-29T12:34:20"
+          },
+          "page_type": "cart",
+          "category_id": "category_019",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:20",
+            "end": "2026-10-29T12:34:25"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_022",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:20",
+            "end": "2026-10-29T12:34:25"
+          },
+          "page_type": "checkout",
+          "category_id": "category_003",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:20",
+            "end": "2026-10-29T12:34:25"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_017",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:20",
+            "end": "2026-10-29T12:34:25"
+          },
+          "page_type": "cart",
+          "category_id": "category_009",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:15",
+            "end": "2026-10-29T12:34:20"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_009",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:20",
+            "end": "2026-10-29T12:34:25"
+          },
+          "page_type": "cart",
+          "category_id": "category_021",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:20",
+            "end": "2026-10-29T12:34:25"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_024",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:20",
+            "end": "2026-10-29T12:34:25"
+          },
+          "page_type": "cart",
+          "category_id": "category_002",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:15",
+            "end": "2026-10-29T12:34:20"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_002",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:15",
+            "end": "2026-10-29T12:34:20"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_005",
+          "event_count": 2,
+          "approx_unique_users": 2
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:15",
+            "end": "2026-10-29T12:34:20"
+          },
+          "page_type": "checkout",
+          "category_id": "category_008",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:20",
+            "end": "2026-10-29T12:34:25"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_011",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:20",
+            "end": "2026-10-29T12:34:25"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_000",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:20",
+            "end": "2026-10-29T12:34:25"
+          },
+          "page_type": "cart",
+          "category_id": "category_014",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:20",
+            "end": "2026-10-29T12:34:25"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_006",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:20",
+            "end": "2026-10-29T12:34:25"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_020",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:20",
+            "end": "2026-10-29T12:34:25"
+          },
+          "page_type": "checkout",
+          "category_id": "category_023",
+          "event_count": 1,
+          "approx_unique_users": 1
+        }
+      ]
+    },
+    {
+      "batch_id": 7,
+      "groups": [
+        {
+          "window": {
+            "start": "2026-10-29T12:34:20",
+            "end": "2026-10-29T12:34:25"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_019",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:20",
+            "end": "2026-10-29T12:34:25"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_008",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:20",
+            "end": "2026-10-29T12:34:25"
+          },
+          "page_type": "cart",
+          "category_id": "category_022",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:20",
+            "end": "2026-10-29T12:34:25"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_014",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:20",
+            "end": "2026-10-29T12:34:25"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_003",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:20",
+            "end": "2026-10-29T12:34:25"
+          },
+          "page_type": "cart",
+          "category_id": "category_006",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:20",
+            "end": "2026-10-29T12:34:25"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_012",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:20",
+            "end": "2026-10-29T12:34:25"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_015",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:20",
+            "end": "2026-10-29T12:34:25"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_007",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:20",
+            "end": "2026-10-29T12:34:25"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_010",
+          "event_count": 2,
+          "approx_unique_users": 2
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:20",
+            "end": "2026-10-29T12:34:25"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_005",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:20",
+            "end": "2026-10-29T12:34:25"
+          },
+          "page_type": "cart",
+          "category_id": "category_011",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:20",
+            "end": "2026-10-29T12:34:25"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_000",
+          "event_count": 2,
+          "approx_unique_users": 2
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:20",
+            "end": "2026-10-29T12:34:25"
+          },
+          "page_type": "cart",
+          "category_id": "category_017",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:20",
+            "end": "2026-10-29T12:34:25"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_001",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:20",
+            "end": "2026-10-29T12:34:25"
+          },
+          "page_type": "cart",
+          "category_id": "category_004",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:20",
+            "end": "2026-10-29T12:34:25"
+          },
+          "page_type": "checkout",
+          "category_id": "category_018",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:20",
+            "end": "2026-10-29T12:34:25"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_021",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:20",
+            "end": "2026-10-29T12:34:25"
+          },
+          "page_type": "cart",
+          "category_id": "category_024",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:20",
+            "end": "2026-10-29T12:34:25"
+          },
+          "page_type": "checkout",
+          "category_id": "category_013",
+          "event_count": 1,
+          "approx_unique_users": 1
+        }
+      ]
+    },
+    {
+      "batch_id": 8,
+      "groups": [
+        {
+          "window": {
+            "start": "2026-10-29T12:34:20",
+            "end": "2026-10-29T12:34:25"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_009",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:20",
+            "end": "2026-10-29T12:34:25"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_015",
+          "event_count": 2,
+          "approx_unique_users": 2
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:25",
+            "end": "2026-10-29T12:34:30"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_004",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:25",
+            "end": "2026-10-29T12:34:30"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_018",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:25",
+            "end": "2026-10-29T12:34:30"
+          },
+          "page_type": "cart",
+          "category_id": "category_007",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:25",
+            "end": "2026-10-29T12:34:30"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_010",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:25",
+            "end": "2026-10-29T12:34:30"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_013",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:25",
+            "end": "2026-10-29T12:34:30"
+          },
+          "page_type": "cart",
+          "category_id": "category_002",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:25",
+            "end": "2026-10-29T12:34:30"
+          },
+          "page_type": "cart",
+          "category_id": "category_016",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:20",
+            "end": "2026-10-29T12:34:25"
+          },
+          "page_type": "cart",
+          "category_id": "category_019",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:25",
+            "end": "2026-10-29T12:34:30"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_022",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:25",
+            "end": "2026-10-29T12:34:30"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_000",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:25",
+            "end": "2026-10-29T12:34:30"
+          },
+          "page_type": "checkout",
+          "category_id": "category_003",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:25",
+            "end": "2026-10-29T12:34:30"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_017",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:25",
+            "end": "2026-10-29T12:34:30"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_006",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:25",
+            "end": "2026-10-29T12:34:30"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_020",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:25",
+            "end": "2026-10-29T12:34:30"
+          },
+          "page_type": "cart",
+          "category_id": "category_009",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:20",
+            "end": "2026-10-29T12:34:25"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_020",
+          "event_count": 2,
+          "approx_unique_users": 2
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:20",
+            "end": "2026-10-29T12:34:25"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_023",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:20",
+            "end": "2026-10-29T12:34:25"
+          },
+          "page_type": "cart",
+          "category_id": "category_012",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:20",
+            "end": "2026-10-29T12:34:25"
+          },
+          "page_type": "cart",
+          "category_id": "category_001",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:25",
+            "end": "2026-10-29T12:34:30"
+          },
+          "page_type": "cart",
+          "category_id": "category_021",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:25",
+            "end": "2026-10-29T12:34:30"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_024",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:20",
+            "end": "2026-10-29T12:34:25"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_002",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:20",
+            "end": "2026-10-29T12:34:25"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_016",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:20",
+            "end": "2026-10-29T12:34:25"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_005",
+          "event_count": 2,
+          "approx_unique_users": 2
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:20",
+            "end": "2026-10-29T12:34:25"
+          },
+          "page_type": "checkout",
+          "category_id": "category_008",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:25",
+            "end": "2026-10-29T12:34:30"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_011",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:25",
+            "end": "2026-10-29T12:34:30"
+          },
+          "page_type": "cart",
+          "category_id": "category_014",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:25",
+            "end": "2026-10-29T12:34:30"
+          },
+          "page_type": "checkout",
+          "category_id": "category_023",
+          "event_count": 1,
+          "approx_unique_users": 1
+        }
+      ]
+    },
+    {
+      "batch_id": 9,
+      "groups": [
+        {
+          "window": {
+            "start": "2026-10-29T12:34:25",
+            "end": "2026-10-29T12:34:30"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_008",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:25",
+            "end": "2026-10-29T12:34:30"
+          },
+          "page_type": "cart",
+          "category_id": "category_022",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:25",
+            "end": "2026-10-29T12:34:30"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_000",
+          "event_count": 2,
+          "approx_unique_users": 2
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:25",
+            "end": "2026-10-29T12:34:30"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_014",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:25",
+            "end": "2026-10-29T12:34:30"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_003",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:25",
+            "end": "2026-10-29T12:34:30"
+          },
+          "page_type": "cart",
+          "category_id": "category_006",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:25",
+            "end": "2026-10-29T12:34:30"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_012",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:25",
+            "end": "2026-10-29T12:34:30"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_015",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:25",
+            "end": "2026-10-29T12:34:30"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_007",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:25",
+            "end": "2026-10-29T12:34:30"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_021",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:25",
+            "end": "2026-10-29T12:34:30"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_010",
+          "event_count": 2,
+          "approx_unique_users": 2
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:25",
+            "end": "2026-10-29T12:34:30"
+          },
+          "page_type": "checkout",
+          "category_id": "category_013",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:25",
+            "end": "2026-10-29T12:34:30"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_005",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:25",
+            "end": "2026-10-29T12:34:30"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_019",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:25",
+            "end": "2026-10-29T12:34:30"
+          },
+          "page_type": "cart",
+          "category_id": "category_011",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:25",
+            "end": "2026-10-29T12:34:30"
+          },
+          "page_type": "cart",
+          "category_id": "category_017",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:25",
+            "end": "2026-10-29T12:34:30"
+          },
+          "page_type": "product_detail",
+          "category_id": "category_001",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:25",
+            "end": "2026-10-29T12:34:30"
+          },
+          "page_type": "cart",
+          "category_id": "category_004",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:25",
+            "end": "2026-10-29T12:34:30"
+          },
+          "page_type": "checkout",
+          "category_id": "category_018",
+          "event_count": 1,
+          "approx_unique_users": 1
+        },
+        {
+          "window": {
+            "start": "2026-10-29T12:34:25",
+            "end": "2026-10-29T12:34:30"
+          },
+          "page_type": "cart",
+          "category_id": "category_024",
+          "event_count": 1,
+          "approx_unique_users": 1
+        }
+      ]
+    }
+  ]
+}

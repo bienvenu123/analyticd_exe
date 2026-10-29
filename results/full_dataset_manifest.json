@@ -1,0 +1,9 @@
+{
+  "users": 10000,
+  "products": 5000,
+  "categories": 25,
+  "sessions": 2000000,
+  "transactions": 500000,
+  "session_chunk_size": 25000,
+  "transaction_chunk_size": 10000
+}
