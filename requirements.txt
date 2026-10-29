@@ -6,3 +6,5 @@ numpy>=1.26
 pandas>=2.1
 matplotlib>=3.8
 reportlab>=4.0
+streamlit>=1.40
+plotly>=5.18
